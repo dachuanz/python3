@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#根据python3 改造
 
 from operator import add, sub
 from random import randint, choice
