@@ -1,3 +1,4 @@
+#测试完全数
 def isperfect(num):
     slist=[]
     count =num-1
