@@ -3,7 +3,7 @@
 
 from operator import add, sub
 from random import randint, choice
-
+#定义字典
 ops = {'+': add, '-': sub}
 MAXTRIES = 2
 
